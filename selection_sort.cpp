@@ -1,3 +1,5 @@
+//Selecting min element first and then iterating through rest of the element to find minimum of it and then replacing it with the ith element. 
+
 #include <bits/stdc++.h>
 using namespace std;
 
