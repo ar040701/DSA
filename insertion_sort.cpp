@@ -1,3 +1,5 @@
+//Takes an element and place it in correct order
+
 #include <bits/stdc++.h>
 using namespace std;
 
