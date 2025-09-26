@@ -5,3 +5,4 @@
 4) Merge Sort
 5) Quick Sort
 6) Remove Duplicates from InPlace Sorted Array
+7) Second Largest Element
