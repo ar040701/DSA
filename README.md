@@ -9,4 +9,5 @@
 8) Rotate Array right and left
 9) Move Zeroes to end
 10) Union and intersection of Arrays
+11) Missing Number
     
