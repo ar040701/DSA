@@ -10,4 +10,5 @@
 9) Move Zeroes to end
 10) Union and intersection of Arrays
 11) Missing Number
-    
+12) Maximum consecutive ones
+13) Single number
