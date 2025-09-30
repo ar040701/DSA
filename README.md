@@ -12,3 +12,4 @@
 11) Missing Number
 12) Maximum consecutive ones
 13) Single number
+14) Two Sum
