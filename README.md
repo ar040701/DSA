@@ -13,3 +13,4 @@
 12) Maximum consecutive ones
 13) Single number
 14) Two Sum
+15) Max Consecutive Sum Soln 1
