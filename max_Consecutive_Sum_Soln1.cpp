@@ -16,7 +16,9 @@ int maxConsecutiveSum(vector<int> &arr, int target){
             int leng = i-m[remSum];
             maxLen = max(maxLen, leng);
         }
-        m[sum] = i;
+        if(m.find(sum)==m.end()){             //only for when sum is not updating in these case [2,0,0,3]
+            m[sum] = i;
+        }
     }
     return maxLen;
 }
@@ -37,4 +39,5 @@ int main()
     cout<<len;
 
     return 0;
+
 }
