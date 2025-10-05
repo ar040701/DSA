@@ -13,4 +13,5 @@
 12) Maximum consecutive ones
 13) Single number
 14) Two Sum
-15) Max Consecutive Sum Soln 1
+15) Max Consecutive Sum Soln 1 & Optimal Soln
+16) Sorting an array of 0,1,2
