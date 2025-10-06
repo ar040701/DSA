@@ -15,3 +15,4 @@
 14) Two Sum
 15) Max Consecutive Sum Soln 1 & Optimal Soln
 16) Sorting an array of 0,1,2
+17) Majority Element
