@@ -16,3 +16,5 @@
 15) Max Consecutive Sum Soln 1 & Optimal Soln
 16) Sorting an array of 0,1,2
 17) Majority Element
+18) Maximum Subarray sum
+19) Best Time to Buy and Sell stocks 
