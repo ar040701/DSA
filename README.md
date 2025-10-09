@@ -17,4 +17,5 @@
 16) Sorting an array of 0,1,2
 17) Majority Element
 18) Maximum Subarray sum
-19) Best Time to Buy and Sell stocks 
+19) Best Time to Buy and Sell stocks
+20) Alternate Positive and Negative Numbers
