@@ -19,3 +19,5 @@
 18) Maximum Subarray sum
 19) Best Time to Buy and Sell stocks
 20) Alternate Positive and Negative Numbers
+21) Leaders
+22) Maximum Consecutive Subarray
