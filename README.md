@@ -21,3 +21,4 @@
 20) Alternate Positive and Negative Numbers
 21) Leaders
 22) Maximum Consecutive Subarray
+23) Rotate Matrix by 90degree
