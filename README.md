@@ -22,3 +22,5 @@
 21) Leaders
 22) Maximum Consecutive Subarray
 23) Rotate Matrix by 90degree
+24) Invert and Rotate Matrix
+25) Transpose Matrix
