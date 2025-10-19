@@ -24,3 +24,5 @@
 23) Rotate Matrix by 90degree
 24) Invert and Rotate Matrix
 25) Transpose Matrix
+26) Minimum Subarray Sum
+27) Pascal Triangle
