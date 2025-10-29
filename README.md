@@ -26,3 +26,4 @@
 25) Transpose Matrix
 26) Minimum Subarray Sum
 27) Pascal Triangle
+28) 3 Sum
