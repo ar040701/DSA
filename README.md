@@ -27,3 +27,4 @@
 26) Minimum Subarray Sum
 27) Pascal Triangle
 28) 3 Sum
+29) Count Subarray with Xor k
