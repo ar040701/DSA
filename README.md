@@ -28,3 +28,4 @@
 27) Pascal Triangle
 28) 3 Sum
 29) Count Subarray with Xor k
+30) Merge Intervals
