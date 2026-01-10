@@ -35,5 +35,5 @@
 34) Aggressive Cows
 35) Peak Allocation
 36) Median of two arrays
-37) Reverse a double linked list
+37) Reverse a double linked list(Iterative & Recursive)
 38) 
