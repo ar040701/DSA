@@ -37,3 +37,4 @@
 36) Median of two arrays
 37) Reverse a double linked list(Iterative & Recursive)
 38) loop inside Linked list
+39) Segregrate Even and odd linked list
